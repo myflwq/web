@@ -1,0 +1,41 @@
+*{margin: 0;padding: 0}
+a{text-decoration: none;}
+ul{list-style: none;}
+.clearfix:before,.clearfix:after{display: block;content:"";}
+.clearfix:after{clear: both;}
+.clearfix{zoom:1;}
+body{background-image: url(http://obqlla9is.bkt.clouddn.com/web/wrap_bg_02.jpg);background-repeat: repeat-x;padding-top: 26px;font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;}
+header{width: 950px;margin: 0 auto;}
+.logo{width: 190px;height: 65px;background-image: url(http://obqlla9is.bkt.clouddn.com/web/logo_03.jpg);text-indent: -100%;overflow: hidden;float: left;margin-bottom: 16px;}
+.header_right{ width: 696px;height: 68px;float: right;}
+.tell{color: #5cb8b7;text-align: right;font-size: 16px;padding-bottom: 14px;}
+nav ul li{float: left;margin-left: 18px;}
+nav ul li a{color: #48a681;font-size: 10px;display:block;line-height: 18px;}
+nav a:hover{border-bottom: 4px #7fc41b solid;color: #7fc41b;}
+.main{width: 938px;margin: 0 auto;clear: both;padding: 0 40px;}
+.main{background-image: url(http://obqlla9is.bkt.clouddn.com/web/main-bg_03.png);background-repeat: no-repeat;overflow: hidden;}
+.main_left{padding-top: 21px;width: 179px;float: left;}
+.main ul{border-top: 10px solid #e8e8de;width: 170px;}
+.main li{border-bottom: 1px solid #eae7de;}
+.main a{text-align: center;line-height: 33px;font-size: 11px;color: #444446;}
+.main_center{width: 560px;padding:19px 9px 20px 9px;float: left;border-right: 1px solid #eae7de;border-left: 1px solid #eae7de;}
+.main_center h2{font-size: 18px;color: #01565d;padding-bottom: 6px;}
+hr{height: 10px;background-color: #e8e8de;border: none;}
+
+.main_right{padding-top: 21px;width: 170px;float: left;padding-left: 9px;}
+.main_right li{background-image: url(http://obqlla9is.bkt.clouddn.com/web/a_jt_20.gif);background-repeat: no-repeat;background-position: center right;}
+.main_right a{color: #00668e;}
+.main_right .img{border: none;}
+.main_right .img li{border: none;}
+
+
+.footer_top{background-color: #e8e8de;}
+.top_inner{position: relative;width: 932px;margin: 0 auto;border-right: 2px solid #fff;}
+.footer_top ul{height: 55px;}
+.footer_top ul li{float: left;padding-left: 26px;padding-right: 15px; line-height: 55px;text-align: center;background-image: url(http://obqlla9is.bkt.clouddn.com/web/zhe_49.gif);background-repeat: no-repeat;}
+.footer_top img{position: absolute;top: -39px;right: 50px;}
+.footer_bottom{ background-color:#00565d;}
+.bottom_inner{width: 955px;height: 197px;margin: 0 auto;}
+.footer_bottom ul{float: left;width: 189px;padding-top: 20px;padding-left: 2px;}
+.footer_bottom h3{font-size: 10px;color: #01b3c1;font-weight:normal;}
+.footer_bottom a{font-size: 10px;color: #f3f3f5;}

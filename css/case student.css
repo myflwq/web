@@ -1,0 +1,22 @@
+nav .case{border-bottom: 4px #7fc41b solid;color: #7fc41b;}
+.main_left li .expedia{color: #00abb9;text-decoration: underline;}
+.main_center{padding-bottom: 0;}
+.main_center img{margin-top: 14px;margin-bottom: 10px;}
+
+.main_center article  img{position: absolute;margin: 0;left: -36px;}
+.article_left{position: relative;width: 135px;float: left;font-size: 15px;color: #51b7bc; line-height: 20px;text-align: right;padding-right:10px;}
+.article_left .andrew{color: #656766;font-size: 11px;line-height: 19px;padding-bottom: 9px;}
+.article_left ul{width: 135px;}
+.article_left li{text-align: left;border: none;font-size: 10px;height: 22px;padding-left: 23px;}
+.article_left .visit{background-image: url(http://obqlla9is.bkt.clouddn.com/web/1_23.gif);background-repeat: no-repeat;background-position: left center;}
+.article_left .print{background-image: url(http://obqlla9is.bkt.clouddn.com/web/2_28.gif);background-repeat: no-repeat;background-position: left center;}
+.article_left .email{background-image: url(http://obqlla9is.bkt.clouddn.com/web/3_34.gif);background-repeat: no-repeat;background-position: left center;}
+.article_left li a{line-height: 22px;}
+.article_right{width: 392px;border-left: 1px solid #e8e8de;float: right;padding: 0 11px ;font-size: 11px;color: #646665;line-height: 18px;}
+.article_right ul a{line-height: 18px;color: #6ea928;}
+.article_right h3{color: #00656f;}
+.article_right p{padding-bottom: 11px;}
+.article_right .last{color: #006571;}
+.article_right p span{color: #6eab1f;}
+.article_right ul{border: none;width: 403px;}
+.article_right li{border: none;}
